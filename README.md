@@ -70,7 +70,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  ![snake gif](https://github.com/YOUR_USERNAME/Ajay987654/blob/output/github-snake-dark.svg)
+</div>
 
 ###
 
