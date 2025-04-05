@@ -4,7 +4,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ajay987654&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<div align="left">
+      ![](https://github-readme-stats.vercel.app/api?username=Ajay987654&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+</div>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ajay987654&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay987654&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <div align="center">
