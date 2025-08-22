@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2 align="center">Hi 👋! My name is Ajay and I'm a Front-End Developer, from India.</h2>
+<h2 align="center">Hi 👋! My name is Ajay and I'm a AI & DS Enthusiast, from India.</h2>
 
 📊 GitHub Stats:
 
