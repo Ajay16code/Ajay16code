@@ -40,7 +40,7 @@
   <a href="https://youtube.com/@@aj_mysterious">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="mailto:ajay527946494@gmail.com">
+  <a href="mailto:mailxajay@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
