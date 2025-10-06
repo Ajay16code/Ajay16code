@@ -55,7 +55,7 @@
 
 <div align="center">
  
- ![snake gif](https://github.com/Ajay987654/Ajay987654/blob/output/github-snake-dark.svg)
+ ![snake gif](https://github.com/Ajay16code/Ajay16code/blob/output/github-snake-dark.svg)
 </div>
 
 ---
