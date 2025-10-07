@@ -6,13 +6,13 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <!-- GitHub Summary Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajay987654&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajay16code&show_icons=true&theme=radical" width="45%" />
 
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay987654&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay16code&theme=radical" width="48%" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay987654&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%" height="220" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay16code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%" height="220" />
 
   <!-- LeetCode Stats -->
   <img src="https://leetcard.jacoblin.cool/Ajay_2025?theme=dark&font=Kanit" width="50%" height="240" alt="LeetCode Stats" />
