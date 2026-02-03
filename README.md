@@ -1,7 +1,7 @@
 # 💫 About Me  
 
 <h2 align="center">
-Hi 👋! I'm <b>Ajay</b>, an <b>AI & Data Science Enthusiast</b> from India 🇮🇳  
+Hi 👋! I'm <b>Ajay</b>, an <b>AI & Data Science Enthusiast</b> from India  
 </h2>
 
 <p align="center">
