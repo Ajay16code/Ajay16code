@@ -6,7 +6,7 @@ Hi 👋! I'm <b>Ajay</b>, an <b>AI & Data Science Enthusiast</b> from India
 
 <p align="center">
 🚀 Passionate about building intelligent systems, AI-powered applications, and data-driven solutions.  
-💡 Always learning | 🧠 Curious Mind | 📊 Data Lover | 🤖 GenAI Explorer  
+💡 Always learning | 🧠 Curious Mind | 📊 Data Lover | 🤖 GenAI   
 </p>
 
 ---
@@ -115,7 +115,7 @@ Hi 👋! I'm <b>Ajay</b>, an <b>AI & Data Science Enthusiast</b> from India
 
 ---
 
-## ✍️ Random Dev Quote  
+##  Random Dev Quote  
 
 <div align="center">
 
