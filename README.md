@@ -27,11 +27,6 @@ Hi 👋! I'm <b>Ajay</b>, an <b>AI & Data Science Enthusiast</b> from India
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ajay16code&show_icons=true&theme=radical" width="45%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay16code&theme=radical" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay16code&theme=dark&layout=compact" width="50%" height="220" />
 
 <img src="https://leetcard.jacoblin.cool/Ajay_2025?theme=dark&font=Kanit" width="50%" height="240" alt="LeetCode Stats" />
 
